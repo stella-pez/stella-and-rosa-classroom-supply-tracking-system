@@ -1,10 +1,8 @@
 
-//This code is for Mega 2560, you can change other Arduino board (Warning: the board need 2 serial port, 1 for reader , 1 for communication.
-//How to connect reader?
   // board TX3 <-----> Reader TTL RX
   // board RX3 <-----> Reader TTL TX
   // board GND <-----> Reader GND
-  // Then the reader need to set CustomProtocol (Use the ReaderSoft, in SpecialParam, open Protocol, and select Protocol1=1,0x02 Head HexID 0x03 0x0D 0x0A end)
+  // Then the reader needs to be set to CustomProtocol (Use the ReaderSoft, in SpecialParam, open Protocol, and select Protocol1=1,0x02 Head HexID 0x03 0x0D 0x0A end)
 
 void setup() {
     // put your setup code here, to run once:
@@ -13,7 +11,7 @@ void setup() {
     Serial.println("Reader System Start\r\n");
 }
 
-//Check the rev char is Legal tag data
+//Check if the rev char is Legal tag data
 unsigned char CheckIsHexChar(unsigned char bChar)
 {
     if(bChar >= '0' && bChar <= '9') return 1;
