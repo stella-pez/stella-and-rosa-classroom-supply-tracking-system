@@ -1,3 +1,6 @@
+Tags that are recommended for use are: https://www.amazon.com/Stickers-Rewritable-Compatible-Waterproof-ISO18000-6C/dp/B0DS11Z93J/ref=sr_1_2?crid=3XFCN3XSGJJY&dib=eyJ2IjoiMSJ9.uYfaAMs7jrCylycpGqGKd2xZjeP0kI6XsxJmNdfV3gJDmOJllGm5RcdXZ1ywsKxgDGrZeAvKlJv_85YavcHDVEf4vApugEA5O8QLhk7RjEJ24EsIcVdxUiH65TGxUJa5SmGy-i8akDQethBtUVBYoqSaC34rbgy_TKSXGaVE_hGmLyAWwQ8-S_9gVJBW2OELcWEKO1dyJ_mgh9JzrwSlWjnjFDM7M6uMz_T83JUw4RhQwM9YuKY1cDSEhpK1glkh42hNER-vffCVWWCMy156LfCLzWWqucnU_W5e-g3P3rs.NzSJ2GhsO8gBxFhWHhff8YZss3JbCF6g8PkdDo_GWKQ&dib_tag=se&keywords=uhf+metal+proof+sticky+rfid+tag&qid=1748627000&sprefix=uhf+metal+proof+sticky+rfid+tag%2Caps%2C101&sr=8-2
+
+
 VIDEOS TO GUIDE YOU
 
 
